@@ -30,7 +30,7 @@
                 <td>
                     <p>20</p>
                 </td>
-                <td rowspan="4"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201703%2F05%2F20170305085501_QWMUs.thumb.700_0.jpeg&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634047542&t=f54b2f2723f4909dddf0d342cad01472" alt=""Pulpit rock" width="100" height="120""></td>
+                <td rowspan="4"><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201606%2F16%2F20160616212355_GeMw5.png&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634047722&t=18312b1c08a32f62bad54b8548946173" alt=""Pulpit rock" width="100" height="120""></td>
             </tr>
             <tr>
                 <td>学历</td>
