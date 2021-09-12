@@ -31,7 +31,7 @@
                     <p>20</p>
                 </td>
                 <td rowspan="4">
-                    <img src="https://img0.baidu.com/it/u=1242273181,3992362129&amp;fm=26&amp;fmt=auto" alt=""Pulpit rock" width="100" height="120"">
+                    <img src="https://img0.baidu.com/it/u=1242273181,3992362129&amp;fm=26&amp;fmt=auto.jpg" width="100" height="120"">
                 </td>
             </tr>
             <tr>
