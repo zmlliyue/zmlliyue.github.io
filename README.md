@@ -18,7 +18,7 @@
                 <th colspan="9">个人简历</th>
             </tr>
             <tr>
-                <td>姓名</td>
+                <th bgcolor="BurlyWood">姓名:</th>
                 <td>
                     <p>赵梦龙</p>
                 </td>
