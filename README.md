@@ -22,11 +22,11 @@
                 <td>
                     <p>赵梦龙</p>
                 </td>
-                <td>性别</td>
+                <th bgcolor="BurlyWood">性别:</th>
                 <td>
                     <p>男</p>
                 </td>
-                <td>年龄</td>
+                <th bgcolor="BurlyWood">年龄:</th>
                 <td>
                     <p>20</p>
                 </td>
@@ -36,60 +36,60 @@
                 </td>
             </tr>
             <tr>
-                <td>学历</td>
+                <th bgcolor="BurlyWood">学历:</th>
                 <td>
                     <p>专科</p>
                 </td>
-                <td>国籍</td>
+                <th bgcolor="BurlyWood">国籍:</th>
                 <td>
                     <p>中国</p>
                 </td>
-                <td>民族</td>
+                <th bgcolor="BurlyWood">民族:</th>
                 <td>
                     <p>汉</p>
                 </td>
                 
             </tr>
             <tr>
-                <td colspan="2">所学专业</td>
-                <td>
+                <th bgcolor="BurlyWood">专业:</th>
+                <td colspan="2">
                     <p>云计算技术与应用</p>
                 </td>
-                <td colspan="2">政治面貌</td>
-                <td>
+                <th bgcolor="BurlyWood">政治面貌:</th>
+                <td colspan="2">
                     <p>共青团员</p>
                 </td>
             </tr>
             <tr>
-                <td>家庭住址</td>
+                <th bgcolor="BurlyWood">家庭住址:</th>
                 <td colspan="5">
                     <p>河南省驻马店市</p>
                 </td>
             </tr>
             <tr>
-                <td>联系电话</td>
+                <th bgcolor="BurlyWood">联系电话:</th>
                 <td colspan="3">
                     <p>15294905349</p>
                 </td>
-                <td>电子邮箱</td>
+                <th bgcolor="BurlyWood">电子邮箱:</th>
                 <td colspan="3">
                     <p>2710357589@qq.com</p>
                 </td>
             </tr>
             <tr>
-                <td>自我介绍</td>
+                <th bgcolor="BurlyWood">自我介绍:</th>
                 <td colspan="6">
                     <p>重庆工程职业技术学院毕业生</p>
                 </td>  
             </tr>
             <tr>
-                <td>个人特长</td>
+                <th bgcolor="BurlyWood">个人特长:</th>
                 <td colspan="6">
                     <p>计算机,java,python</p>
                 </td>
             </tr>
             <tr>
-                <td>工作经历</td>
+                <th bgcolor="BurlyWood">工作经历:</th>
                 <td colspan="6">
                     <p>毕业生</p>
                 </td>
